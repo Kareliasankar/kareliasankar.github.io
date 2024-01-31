@@ -3,7 +3,7 @@
 
 ## Korjausrakentamisen palvelut
 
-background-image: linear-gradient(
+background-image: none(
     to bottom,
     rgb(255 255 0 / 50%),
     rgb(0 0 255 / 50%)
